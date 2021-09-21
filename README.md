@@ -1,16 +1,9 @@
-# web_demo
+# flutter_web_url_parameters
 
-A new Flutter application.
+Webページから任意のURLパラメーターを渡して、FlutterWebで使えるようにしている。
 
-## Getting Started
+## Video
+demo |
+:--: |
+<video src="https://user-images.githubusercontent.com/73928886/134147614-e830b6fe-168c-4db9-aae6-3de128f89533.mov" width="300" /> |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
